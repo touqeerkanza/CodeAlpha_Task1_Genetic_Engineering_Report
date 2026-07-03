@@ -26,6 +26,4 @@ Completed as part of the CodeAlpha Biotechnology Internship, which offers hands-
 
 **Organization:** [CodeAlpha](https://www.codealpha.tech)
 
----
-
-*⭐ If you found this useful, consider starring the repo!*
+-
